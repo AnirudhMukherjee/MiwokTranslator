@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1d983597f63e6c9b2b8a09ad364ebeaaa70ce680\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e696cc946adcc279062f5a96af1ac0fdee76a9e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="62e8ed223413c088dca1e82d72b86f3585e7398f">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e73bf33bada14acbb4dcb5381b1158e793feed8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_f52e9d242c8b9c960a16476b1a8e24ac28a0c527\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_4e39a53663bb8f62f287298584d27e76bb059001\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b1bdee831be2fc3d5026ee5cd6b91000b513347c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4bc4e3b72845a3d06f49070bcb245522646e587a">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c02d9a47b1d5072419bdd2ef03020919baa60103\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_96fd8c462ed206cd3ce4eb9814bf9bc9fa63a128\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_d241b19d449892f30f2f4b64a46478b0b9b0cabb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Anirudh\Documents\MiwokTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_77be52f73b4a68bad8896892a87e001387b8e551\classes.dex" />
+    </item>
+
+</items>
